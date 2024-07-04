@@ -1,4 +1,6 @@
 # A react admin dashboard
-v 0.1.0
+v 0.1.1
 
 look out for newer updates
+* backend implementation 
+* responsiveness
